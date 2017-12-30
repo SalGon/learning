@@ -1,0 +1,42 @@
+.section-separator-grey {
+    padding-top: 20px;
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-top-color: rgb(187, 187, 187);
+    background-color: #f9f9f9;
+    padding-bottom: 20px;
+}
+
+.section-separator-white {
+    padding-top: 20px;
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-top-color: rgb(187, 187, 187);
+    background-color: #ffffff;
+    padding-bottom: 20px;
+}
+
+.middle-centered-text{
+    position: relative;
+    top: 50%
+}
+
+.new-row {
+    padding-top: 40px;
+  }
+
+  .final-row {
+    padding-bottom: 40px;
+  }
+
+.move-right{
+    position: right;
+}
+
+.social-padding {
+  margin-top: -20px;
+}
+
+.footer-text{
+  color: white
+}
